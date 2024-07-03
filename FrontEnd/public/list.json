@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "category": "Free",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+      "title": "Free Course 1",
+      "description": "Description for free course 1",
+      "isNew": true,
+      "tags": ["Tag1", "Tag2"]
+    },
+    {
+      "id": 2,
+      "category": "Free",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+      "title": "Free Course 2",
+      "description": "Description for free course 2",
+      "isNew": false,
+      "tags": ["Tag3", "Tag4"]
+    }
+  ]
+  
