@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "abc"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "riya",
+  "license": "ISC"
+}
